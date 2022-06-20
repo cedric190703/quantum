@@ -1,1 +1,2 @@
-# quantum
+This project is about a documentation of quantum computer to learn HTML CSS and JavaScript.
+This time, I try to make a responsive website because I want to create websites for computer and also mobile because for a pro dev it's really important.
