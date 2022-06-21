@@ -300,9 +300,17 @@ text-align: center;
 }
 
 #nav-droite{
-    right: 0;
+    right: 30%;
 }
 
 #nav-gauche{
-    left: 0;
+    left: 30%;
+}
+
+.diapo{
+    text-align: center;
+}
+
+.diapo img{
+    border-radius: 28px;
 }
